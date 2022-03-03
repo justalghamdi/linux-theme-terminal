@@ -21,4 +21,4 @@ Username and domain will be set by you ;)
 # Compile
 #THIS IS ONLY FOR WINDOWS BECAUSE MOST OF IT ARE USING WINAPI AND WINDOWS COMMANDS
 # Windows
-`compile it using VS else make sure to install json-c using vcpkg or if you wanna try it fast download it from `
+compile it using VS else make sure to install json-c using vcpkg or if you wanna try it fast download it from https://github.com/justalghamdi/linux-theme-terminal/releases/download/C/linux.theme.terminal.exe
