@@ -16,6 +16,7 @@ A Windows console with a Linux theme has a few commands that I wrote myself, and
 #PHOTO
 * ![alt text](https://cdn.discordapp.com/attachments/725201064147550218/949016019702284398/Screenshot_2022-03-03_214518.png)
 
+Username and domain will be set by you ;)
 
 #Compile
 #THIS IS ONLY FOR WINDOWS BECAUSE MOST OF IT ARE WINAPI AND WINDOWS COMMANDS
