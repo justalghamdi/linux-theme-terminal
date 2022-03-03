@@ -20,4 +20,4 @@ Username and domain will be set by you ;)
 
 # Compile
 #THIS IS ONLY FOR WINDOWS BECAUSE MOST OF IT ARE USING WINAPI AND WINDOWS COMMANDS
-compile it using VS else make sure to install json-c using vcpkg or if you wanna try it fast download it from <a>here</a>
+`compile it using VS else make sure to install json-c using vcpkg or if you wanna try it fast download it from `
