@@ -18,7 +18,10 @@ A Windows console with a Linux theme has a few commands that I wrote myself, and
 
 Username and domain will be set by you ;)
 
+# Errors?
+`if you find any error in code or run time contact me to fix it I will appreciate it so much =)`
 # Compile
 #THIS IS ONLY FOR WINDOWS BECAUSE MOST OF IT ARE USING WINAPI AND WINDOWS COMMANDS
 # Windows
-compile it using VS else make sure to install json-c using vcpkg or if you wanna try it fast download it from https://github.com/justalghamdi/linux-theme-terminal/releases/download/C/linux.theme.terminal.exe
+compile it using Visual Studio else make sure to install json-c using vcpkg or if you wanna try it fast download it from https://github.com/justalghamdi/linux-theme-terminal/releases/download/C/linux.theme.terminal.exe
+
