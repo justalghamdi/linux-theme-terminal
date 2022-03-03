@@ -18,5 +18,5 @@ A Windows console with a Linux theme has a few commands that I wrote myself, and
 
 Username and domain will be set by you ;)
 
-#Compile
+# Compile
 #THIS IS ONLY FOR WINDOWS BECAUSE MOST OF IT ARE WINAPI AND WINDOWS COMMANDS
